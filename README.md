@@ -1,3 +1,2 @@
 # start
-My first repository in github
-make changes
+My first repository in github 
